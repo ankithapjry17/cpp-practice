@@ -18,7 +18,7 @@ int main(){
     return 0;
 }
 
-
+/*
 int main(){
     for(int i=1;i<5;i++){
         for(int spaces=0;spaces<=5-i;spaces++){
@@ -29,4 +29,4 @@ int main(){
         }
         cout<<endl;
     }
-}
+}*/
